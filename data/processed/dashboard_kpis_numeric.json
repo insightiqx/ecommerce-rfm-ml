@@ -1,0 +1,8 @@
+{
+    "total_customers": 793,
+    "total_sales": 2297200.8603,
+    "avg_ticket": 458.61466566180883,
+    "churn_rate": 0.22698612862547288,
+    "avg_proba_churn": 0.25002101723413195,
+    "churn_threshold": 0.5
+}

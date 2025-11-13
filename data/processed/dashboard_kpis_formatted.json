@@ -1,0 +1,8 @@
+{
+    "total_customers": "793",
+    "total_sales": "2.297.201 €",
+    "avg_ticket": "459 €",
+    "churn_rate": "22,7 %",
+    "avg_proba_churn": "25,0 %",
+    "churn_threshold": "50,0 %"
+}
